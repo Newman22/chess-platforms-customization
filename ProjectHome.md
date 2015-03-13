@@ -1,0 +1,1 @@
+This is an area for making custom levels and other coding stuff for Chess Platforms I.
